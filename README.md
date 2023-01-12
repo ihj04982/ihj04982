@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats-.vercel.app/api/top-langs/?username=ihj04982&layout=compact"><br><br>
+[(https://github-readme-stats-.vercel.app/api/top-langs/?username=ihj04982&layout=compact)]
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ihj04982)]
 ****
 ### Link 🔗
