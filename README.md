@@ -6,6 +6,7 @@
 
 <!--
 **ihj04982/ihj04982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/dmnnmd)<br/>
 
 Here are some ideas to get you started:
 
