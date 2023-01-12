@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihj04982&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihj04982&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihj04982)](https://github.com/ihj04982/github-readme-stats)
 
 ### Link 🔗
 [![Tistory Badge](https://img.shields.io/badge/Study%20Blog-555263?style=flat&logoColor=white)]("chttps://dmnnmd.tistory.com/)
