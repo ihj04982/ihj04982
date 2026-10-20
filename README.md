@@ -40,10 +40,8 @@ Quality · Infra
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ihj04982&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihj04982&layout=compact&theme=default&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=ihj04982&style=flat&color=blue" />
 </div>
-
 ---
 
 ### 📫 연락처
